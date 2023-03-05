@@ -53,7 +53,7 @@ a:hover {
 }
 
 a:active {
-    color: var(--color-dark-grey);
+    background-color: var(--color-dark-grey);
 }
 
 h1,
