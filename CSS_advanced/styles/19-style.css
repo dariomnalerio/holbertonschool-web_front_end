@@ -350,10 +350,10 @@ h6 {
     color: var(--nav-item-link-hover);
 }
 
-ul .row {
+ul.row {
     margin: 0;
     padding: 0;
-    text-decoration: none;
+    list-style: none;
 }
 
 .col-1-3 {
